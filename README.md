@@ -1,9 +1,18 @@
-## Hi there, I'm Gunjan Vaishnavi Jangra 👋
-> Welcome to my corner of GitHub!💫
+
+## Hi there, I'm Gunjan Vaishnavi Jangra 👋 
+> **Welcome to my corner of GitHub!💫**
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="300" /> 
+
+
+
+
 - 🎓 Penultimate year student pursuing B.Tech. in Computer Science and Engineering at IGDTUW, Delhi.
 - 🔭 Interested in Data Structures, Algorithms, Machine Learning, Frontend Development and UI/UX. 👩🏻‍💻
 - 🌱 Currently learning and exploring App Development.
 - 📫 Connect : [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/gunjanvjangra) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunjanvaishnavijangra/)
+
+
+
 
 _Ascend -> Code -> Thrive_ 🌿
 
