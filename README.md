@@ -5,8 +5,8 @@
 
 
 
-
-- 🎓 Final-year B.Tech. student in Computer Science and Engineering at Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi.
+- 🎓 Penultimate year student pursuing B.Tech. in Computer Science and Engineering at IGDTUW, Delhi.
+- 🔭 Interested in Data Structures, Algorithms, Machine Learning, Frontend Development and UI/UX. 👩🏻‍💻
 - 🌱 Learning and Progressing :)
 - 📫 Connect : [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/gunjanvjangra) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunjanvaishnavijangra/)
 
